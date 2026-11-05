@@ -11,4 +11,6 @@ Here I optimize cuda kernels targeting a 5090 GPU
 
 
 
+## License
 
+[BSD-3-Clause](https://opensource.org/license/bsd-3-clause)
