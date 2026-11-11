@@ -7,7 +7,7 @@ We optimize cuda kernels targeting a 5090 GPU
 - [Softmax](./softmax/README.md)
 - [RoPE](./rope/README.md)
 - [RMSNorm](./rmsnorm/README.md)
-- [TokK](./topk/README.md)
+- [TopK](./topk/README.md)
 
 ## License
 
